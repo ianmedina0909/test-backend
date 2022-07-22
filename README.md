@@ -1,2 +1,7 @@
 # Test backend
-This is the repository for Adal School Management System APIs.
+
+# Getting Started with Create Backend App
+
+In the project directory, you can run:
+
+### `npm start`
